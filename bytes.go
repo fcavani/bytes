@@ -2,7 +2,6 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 // Start date:		2014-12-04
-// Last modification:	2014-x
 
 // Functions to manipulate slices of bytes.
 package bytes
